@@ -48,7 +48,7 @@ function updateMessage() {
 updateMessage();
 ```
 
-^ The steps the function needs to perform in are packaged up in a code block. A code block consists of one ore more statements contained within curly braces.
+^ The steps the function needs to perform in are packaged up in a code block. A code block consists of one or more statements contained within curly braces.
 
 ---
 
